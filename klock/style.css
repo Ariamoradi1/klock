@@ -1,0 +1,10 @@
+body{
+background: rgb(70,32,130);
+background: linear-gradient(3deg, rgba(70,32,130,1) 0%, rgba(9,72,121,1) 35%, rgba(0,212,255,1) 100%);
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 80px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
